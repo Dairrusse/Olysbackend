@@ -84,5 +84,6 @@ insert into estado_pedido_table(id,estado_pedido) values(1,'pendiente');
 insert into estado_pedido_table(id,estado_pedido) values(2,'pagado');
 insert into estado_pedido_table(id,estado_pedido) values(3,'cancelado');
 
+insert into admin(id,email,nombre,password) values(1,'martin@gmail.com','martin','$2b$10$VYAMdYuGtrEJwTqDcS6hNeEuU1hIoY97BwExTruU75QwpiM8KfTcW')
 
 
