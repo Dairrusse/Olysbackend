@@ -63,7 +63,7 @@ public class MercadoPagoController {
 
                             if(pedido.getEnvio()){
                                 try {
-                                    List<String> recipients = Arrays.asList("ssanttifigueroa@gmail.com","gonzalezmartinnatanael@gmail.com");
+                                    List<String> recipients = Arrays.asList("ssanttifigueroa@gmail.com","gonzalezmartinnatanael@gmail.com","martigarcia222@gmail.com");
                                     emailService.sendEmail(recipients,"Nuevo pedido","El usuario "+pedido.getNombreCliente()+" hizo en pedido con envio a la direccion: "+ pedido.getDireccionCliente());
                                 } catch (MessagingException e) {
                                     System.out.print(e.getMessage());
