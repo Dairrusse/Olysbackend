@@ -73,9 +73,9 @@ public class PedidoController {
 
 
         PreferenceBackUrlsRequest backUrlsRequest = PreferenceBackUrlsRequest.builder()
-                .pending("https://www.youtube.com")
-                .failure("https://www.youtube.com")
-                .success("https://www.youtube.com")
+                .pending("https://www.mngss.online/")
+                .failure("https://www.mngss.online/")
+                .success("https://www.mngss.online/")
                 .build();
 
         PreferenceRequest preferenceRequest = PreferenceRequest.builder()

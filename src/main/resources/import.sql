@@ -19,7 +19,7 @@ insert into producto(id,nombre,tipo_producto,cantidad,calorias,precio) values(16
 insert into producto(id,nombre,tipo_producto,cantidad,calorias,precio) values(17,'Pasas de uva','Ingrediente',1,120.0,2300);
 insert into producto(id,nombre,tipo_producto,cantidad,calorias,precio) values(18,'Lenteja','Ingrediente',1,120.0,2300);
 insert into producto(id,nombre,tipo_producto,cantidad,calorias,precio) values(19,'Remolacha','Ingrediente',1,120.0,2300);
-insert into producto(id,nombre,tipo_producto,cantidad,calorias,precio) values(20,'Papa al horno','Ingrediente',3,120.0,2300);
+insert into producto(id,nombre,tipo_producto,cantidad,calorias,precio) values(20,'Papa al horno','Ingrediente',1,120.0,2300);
 insert into producto(id,nombre,tipo_producto,cantidad,calorias,precio) values(21,'Pepino','Ingrediente',1,120.0,2300);
 insert into producto(id,nombre,tipo_producto,cantidad,calorias,precio) values(22,'Poroto','Ingrediente',1,120.0,2300);
 insert into producto(id,nombre,tipo_producto,cantidad,calorias,precio) values(23,'Quinoa','Ingrediente',1,120.0,2300);
